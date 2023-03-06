@@ -1,4 +1,4 @@
-package com.morev.betapp;
+package com.morev.sportbet;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

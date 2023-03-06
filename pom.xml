@@ -5,16 +5,16 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.0.3</version>
+        <version>3.0.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.morev</groupId>
-    <artifactId>betapp</artifactId>
+    <artifactId>sportbet</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>betapp</name>
+    <name>sportbet</name>
     <description>Sport bets test task</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
